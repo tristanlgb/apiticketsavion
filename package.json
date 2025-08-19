@@ -1,7 +1,7 @@
 {
   "name": "airline-checkin",
   "private": true,
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
     "start": "node dist/app.js",
